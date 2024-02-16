@@ -14,3 +14,9 @@ sample command : docker run -d --volume /home/tgadmin:workspace image sleep infi
 
 Get the stauts of the container : ````docker ps````
 
+
+Checking for docker :
+
+````docker exec -it container_id sh````
+
+
