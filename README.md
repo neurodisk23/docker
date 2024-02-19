@@ -19,4 +19,7 @@ Checking for docker :
 
 ````docker exec -it container_id sh````
 
-
+Come out of a docker container 
+```
+ctl + p and then ctl + q
+```
